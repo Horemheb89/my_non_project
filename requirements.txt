@@ -27,3 +27,21 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# classmates' URLs
+git+https://github.com/arnaudrg/ohmypitch
+git+https://github.com/magrousseau/mlproject
+git+https://github.com/corentingaret/test_package
+git+https://github.com/migasar/cookbook
+git+https://github.com/SAO86/salouapackage
+git+https://github.com/Alispirale/projet_alice
+git+https://github.com/Alexlaurent/the_monolith
+git+https://github.com/Celine-Guan/testPackage
+git+https://github.com/ramsyy0/firstrepo
+git+https://github.com/rashaBadry/test_projet
+git+https://github.com/elanhermi/myfirstpackage
+
+
+
+
+
